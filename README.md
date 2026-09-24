@@ -56,7 +56,6 @@ LUFFY/
 
 ### 📝 Complete TODO List
 
-
 - [ ] **luffy/deepscaler/utils.py:107** - Implement Vertex AI initialization and authentication
 - [ ] **luffy/deepscaler/utils.py:108** - Configure safety settings for content generation
 - [ ] **luffy/deepscaler/utils.py:109** - Set up GenerativeModel with proper system instructions
